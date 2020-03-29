@@ -94,7 +94,6 @@ public enum FPNCountryCode: String {
 	case IR = "IR"
 	case IE = "IE"
 	case IS = "IS"
-	case IL = "IL"
 	case IT = "IT"
 	case JM = "JM"
 	case JP = "JP"

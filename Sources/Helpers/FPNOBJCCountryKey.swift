@@ -94,7 +94,6 @@ import Foundation
 	case IR
 	case IE
 	case IS
-	case IL
 	case IT
 	case JM
 	case JP
@@ -335,7 +334,6 @@ public let FPNOBJCCountryCode: [FPNOBJCCountryKey: String] = [
 	FPNOBJCCountryKey.IR: "IR",
 	FPNOBJCCountryKey.IE: "IE",
 	FPNOBJCCountryKey.IS: "IS",
-	FPNOBJCCountryKey.IL: "IL",
 	FPNOBJCCountryKey.IT: "IT",
 	FPNOBJCCountryKey.JM: "JM",
 	FPNOBJCCountryKey.JP: "JP",
